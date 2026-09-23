@@ -1,0 +1,6 @@
+**/node_modules/
+# Python Virtual Environments
+**/venv/
+**/.venv/
+**/env/
+**/ENV/
